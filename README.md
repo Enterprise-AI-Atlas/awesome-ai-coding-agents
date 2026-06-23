@@ -53,6 +53,8 @@ Terminal-based agents you drive from the command line.
   - Install: `npm install -g @openai/codex`
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** `Official` — Google's command-line coding assistant with repository context.
   - Install: `npm install -g @google/gemini-cli`
+- **[Ralph Harness](https://github.com/rxdt/py_ralph_frame)** `Community` — Minimal repo-local loop scaffold for Claude Code, Codex CLI, and Gemini CLI with specs, fresh-context iterations, git hooks, CI verification, and time caps.
+  - Install: `uvx ralph-harness demo`
 - **[Aider](https://github.com/Aider-AI/aider)** `Community` — Open-source pair-programming CLI that edits code in your local git repo.
   - Install: `pip install aider-chat`
 - **[OpenCode](https://github.com/anomalyco/opencode)** `Community` — Open-source terminal, desktop, and IDE coding agent with built-in planning and build modes.
