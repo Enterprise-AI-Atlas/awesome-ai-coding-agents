@@ -137,6 +137,8 @@ Libraries and frameworks for building, orchestrating, and extending coding agent
   - Install: `pip install crewai`
 - **[LlamaIndex](https://github.com/run-llama/llama_index)** `Official` — Data framework for connecting LLMs to private data and agent tools.
   - Install: `pip install llama-index`
+- **[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)** `Community` — Local-first memory lifecycle framework for coding agents that need project-scoped recall, consolidation, redaction, and export.
+  - Install: `curl -fsSL https://raw.githubusercontent.com/TerminallyLazy/Tree-Ring-Memory/main/install.sh | sh`
 - **[DSPy](https://github.com/stanfordnlp/dspy)** `Official` — Stanford framework for algorithmically optimizing LLM prompts and agents.
   - Install: `pip install dspy`
 
