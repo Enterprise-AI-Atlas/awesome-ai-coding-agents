@@ -91,6 +91,7 @@ Agents focused on reviewing pull requests, spotting issues, and suggesting impro
 - **[CodeSee](https://www.codesee.io/)** `Official` — Code visualization platform with AI-powered PR review and onboarding.
 - **[Amazon Q Developer Code Review](https://aws.amazon.com/q/developer/)** `Official` — AWS agent that reviews code for security, quality, and best practices.
 - **[GitHub Copilot Code Review](https://github.com/features/copilot)** `Official` — Native AI code review integrated into GitHub pull requests.
+- **[Aura](https://github.com/Naridon-Inc/aura)** `Community` — Open-source VCS layer for reviewing AI-agent code changes with semantic diffs, provenance, and intent checks.
 
 ---
 
