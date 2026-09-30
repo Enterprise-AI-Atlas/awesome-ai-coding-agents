@@ -153,6 +153,7 @@ Paid products that add agentic coding assistance to existing workflows.
 - **[Codeium](https://www.codeium.com/)** `Official` — Free AI code completion and chat for editors, also powering Windsurf.
 - **[Supermaven](https://supermaven.com/)** `Official` — Fast AI code completion with large context windows.
 - **[Pieces](https://pieces.app/)** `Official` — AI-enabled snippet manager and coding assistant for the desktop.
+- **[Wayari](https://wayari.com/)** `Official` - Local coding-agent orchestrator for Claude Code and Codex with isolated worktrees, repository checks, independent review, and pull-request handoff.
 
 ---
 
