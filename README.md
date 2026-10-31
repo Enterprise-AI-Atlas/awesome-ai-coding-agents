@@ -105,6 +105,8 @@ Tools that automatically write, run, and maintain tests.
 - **[Octomind](https://octomind.dev/)** `Official` — AI agent that discovers, generates, and maintains end-to-end UI tests.
 - **[Testim](https://www.tricentis.com/testim)** `Official` — AI-based test authoring and maintenance for web applications.
 - **[Testsigma](https://testsigma.com/)** `Official` — Low-code test automation platform with AI-driven test generation and healing.
+- **[agent-qa](https://vostride.com)** `Official` — Natural-language web and mobile testing with memidex persistent memory, validated self-improvement, and CLI/MCP access.
+  - Install: `npm install -D agent-qa`
 
 ---
 
