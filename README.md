@@ -57,6 +57,8 @@ Terminal-based agents you drive from the command line.
   - Install: `pip install aider-chat`
 - **[OpenCode](https://github.com/anomalyco/opencode)** `Community` — Open-source terminal, desktop, and IDE coding agent with built-in planning and build modes.
   - Install: `curl -fsSL https://opencode.ai/install | bash`
+- **[Mixdog](https://github.com/tribgames/mixdog)** `Official` — Open-source (Apache-2.0) coding agent for desktop and terminal where a lead model plans and cheaper models search and edit.
+  - Install: `npm install -g mixdog`
 
 ---
 
