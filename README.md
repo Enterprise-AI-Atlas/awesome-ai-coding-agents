@@ -32,6 +32,7 @@ The goal is to be the definitive place to discover tools that turn natural-langu
 
 AI-native integrated development environments where an agent is the primary coding partner.
 
+- **[Althar](https://github.com/AltharIDE/althar)** `Official` — Desktop ADE that turns requests into tasks, assigns coding agents, and has another model review the changes.
 - **[Cursor](https://www.cursor.com/)** `Official` — AI-first IDE built on VS Code with composer, tab completion, and codebase-aware chat.
 - **[Windsurf](https://www.codeium.com/windsurf)** `Official` — Codeium's agentic IDE with cascade editing and contextual awareness.
 - **[Zed AI](https://zed.dev/)** `Official` — High-performance multiplayer code editor with built-in AI assistant and agentic editing.
